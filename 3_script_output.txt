@@ -1,0 +1,1610 @@
+
+=== Android-CI/14022 ===
+
+=== Android-CI/3.6_5 ===
+
+=== Android-CI/ANDAPP-10089-connected-to-settings ===
+
+=== Android-CI/ANDAPP-11818-RATLS-icons-Play-and-Download-are-displayed-on-the-upper-local-recording-from-the-previous-day-if-to-download-a-recording-from-the-consecutive-day ===
+
+=== Android-CI/ANDAPP-13703_Location_Name_has_been_removed._message_shows_up_too_quickly_for_the_user_to_actually_notice_it ===
+
+=== Android-CI/ANDAPP-14485 ===
+
+=== Android-CI/ANDAPP-14593_Refactor_current_theme_to_use_standard_material_attributes_ ===
+
+=== Android-CI/ANDAPP-14595_Switch_themes_between_UI3_and_UI4_depending_on_BE_flags ===
+
+=== Android-CI/ANDAPP-14595_Switch_themes_between_UI_3.0_and_4.0_depending_on_BE_flags ===
+
+=== Android-CI/ANDAPP-14668_Apply_UX4.0_to_camera_settings_main_screen ===
+
+=== Android-CI/ANDAPP-14669_Apply_UX4.0_to_SmartHub_Basestation_settings_main_screen ===
+
+=== Android-CI/ANDAPP-5233-Add-ability-to-configure-WebRTC-options-in-the-runtime ===
+
+=== Android-CI/ANDAPP-8570-Add-activity-lifecycle-state-to-crashlytics ===
+
+=== Android-CI/ANDAPP-9435-Create-devices-engagements-storage ===
+
+=== Android-CI/ANDAPP_11022_Integrate_DD_API_to_domain_layer_polishing ===
+
+=== Android-CI/ANDApp-13548 ===
+
+=== Android-CI/ARLOANDRD-551_ApplyProguardToApp ===
+
+=== Android-CI/CICD-7140-v1 ===
+
+=== Android-CI/CICD-7507 ===
+
+=== Android-CI/CICD-7507-1 ===
+
+=== Android-CI/CICD-7507-2 ===
+
+=== Android-CI/CICD-7536 ===
+
+=== Android-CI/CICD-7537 ===
+
+=== Android-CI/CICD-7776 ===
+
+=== Android-CI/PR-11 ===
+
+=== Android-CI/PR-12 ===
+
+=== Android-CI/PR-13 ===
+
+=== Android-CI/PR-14 ===
+
+=== Android-CI/PR-15 ===
+
+=== Android-CI/PR-16 ===
+
+=== Android-CI/PR-17 ===
+
+=== Android-CI/PR-18 ===
+
+=== Android-CI/PR-19 ===
+
+=== Android-CI/PR-2 ===
+
+=== Android-CI/PR-20 ===
+
+=== Android-CI/PR-21 ===
+
+=== Android-CI/PR-22 ===
+
+=== Android-CI/PR-23 ===
+
+=== Android-CI/PR-24 ===
+
+=== Android-CI/PR-25 ===
+
+=== Android-CI/PR-26 ===
+
+=== Android-CI/PR-27 ===
+
+=== Android-CI/PR-28 ===
+
+=== Android-CI/PR-29 ===
+
+=== Android-CI/PR-3 ===
+
+=== Android-CI/PR-30 ===
+
+=== Android-CI/PR-31 ===
+
+=== Android-CI/PR-32 ===
+
+=== Android-CI/PR-4 ===
+
+=== Android-CI/PR-5 ===
+
+=== Android-CI/PR-6 ===
+
+=== Android-CI/PR-7 ===
+
+=== Android-CI/PR-8 ===
+
+=== Android-CI/PR-9 ===
+
+=== Android-CI/QAUTO-2145 ===
+
+=== Android-CI/QAUTO-2469 ===
+
+=== Android-CI/QAUTO-2638 ===
+
+=== Android-CI/QAUTO-2639 ===
+
+=== Android-CI/QAUTO-3073 ===
+
+=== Android-CI/QAUTO-832 ===
+
+=== Android-CI/andapp-13548 ===
+
+=== Android-CI/autotest%2Fdevelop ===
+
+=== Android-CI/bugfix%2F10200 ===
+
+=== Android-CI/bugfix%2FANDAPP-10158-Crop-function-The-minimum-crop-frames-are-different-on-3-clients ===
+
+=== Android-CI/bugfix%2FANDAPP-10220_Android_8x5x_SIP_streaming_grey_image_during_streaming ===
+
+=== Android-CI/bugfix%2FANDAPP-10245-DEV-user-is-not-logged-out-if-Two-Step-Verification-page-is-opened ===
+
+=== Android-CI/bugfix%2FANDAPP-10364_Sparrow_Snapshot_Does_Not_Update_When_Toggling_Night_Mode_In_Video_Settings ===
+
+=== Android-CI/bugfix%2FANDAPP-10365-GDEV-incorrect-order-of-2FA-factors-on-two-step-verification-screen ===
+
+=== Android-CI/bugfix%2FANDAPP-10391-After_chime_unplug_error_state_icon_doesnt_indicate_the_status_is_offline_until_user_navigate_to_any_other_and_again_plug_back_is_indicating_as_online_approx_after_4-5_mins_automatically ===
+
+=== Android-CI/bugfix%2FANDAPP-10580-Updated_SSID_name_is_not_displaying_when_page_redirect_to_ConnectedTo_screen_after_completing_the_process ===
+
+=== Android-CI/bugfix%2FANDAPP-10608-Something_came_up_The_application_has_cancelled_the_request_to_choose_the_device_error_message_occurred_and_cannot_onboard_with_OnePlus_6T ===
+
+=== Android-CI/bugfix%2FANDAPP-10809-Landscape-mode-does-not-work-on-Pixel-3A-XL ===
+
+=== Android-CI/bugfix%2FANDAPP-10857-Android-6-The-Call-Friend-CTA-button-isn't-displayed-fully-in-Smart-PNs ===
+
+=== Android-CI/bugfix%2FANDAPP-10888_Macaw_One_Month_Trial_Displaying_In_Wrong_Part_Of_Onboarding ===
+
+=== Android-CI/bugfix%2FANDAPP-10913_Missing_System_Bar_During_2WT_LiveStream ===
+
+=== Android-CI/bugfix%2FANDAPP-10946-Localization-Time-Zones-list-is-not-translated-to-supported-languages-until-restart-the-app ===
+
+=== Android-CI/bugfix%2FANDAPP-10947-App-flip-Cant-link-account-error-message-when-tap-Agree-and-Link ===
+
+=== Android-CI/bugfix%2FANDAPP-10964-Owl-with-turned-on-light-default-100-value-shows-not-100-full-slider ===
+
+=== Android-CI/bugfix%2FANDAPP-10981_Siren_does_not_start_for_cameras_in_BS_mode_from_Emergency_shield ===
+
+=== Android-CI/bugfix%2FANDAPP-10986-AND-App-crashes-when-try-to-edit-Profile ===
+
+=== Android-CI/bugfix%2FANDAPP-10993-Camera-Positioning-signal-strength-doesnt-change ===
+
+=== Android-CI/bugfix%2FANDAPP-11029-Baby-camera-Color-of-the-play-button-is-not-updated-to-Arlo-green-in-the-Arlo-Baby-Playlist-page ===
+
+=== Android-CI/bugfix%2FANDAPP-11079-BabyCam-WhiteTheme-Almost-invisible-Logo-on-the-Always-Listening-panel ===
+
+=== Android-CI/bugfix%2FANDAPP-11173-Inconsistent-view-of-loudness-slider-in-device-chime-cross-rule-siren-settings ===
+
+=== Android-CI/bugfix%2FANDAPP-11174-adaptive-sizing-animated-preview ===
+
+=== Android-CI/bugfix%2FANDAPP-11193-PTT-microphone-disabled-No-warning-message-on-Android ===
+
+=== Android-CI/bugfix%2FANDAPP-11227-Double-tap-to-reset-zoom-on-Android-does-not-reset-to-correct-non-zoom-values ===
+
+=== Android-CI/bugfix%2FANDAPP-11231-Landscape-mode-does-not-work-on-Pixel-3A-XL ===
+
+=== Android-CI/bugfix%2FANDAPP-11253_MQTT_Audio_Setings_The_Operation_failed_message_occurs_if_change_the_MicrophoneSpeaker_toggle_state ===
+
+=== Android-CI/bugfix%2FANDAPP-11358-Legacy-wire-free-flow-starts-if-press-ADD-NEW-CAMERA-in-Audio-Doorbell-settings-No-way-to-add-new-wire-free-cameras ===
+
+=== Android-CI/bugfix%2FANDAPP-11596_Macaw_Error_In_Owner_PN_When_Friend_Answers_Call ===
+
+=== Android-CI/bugfix%2FANDAPP-11667-Unable-to-grant-access-base-station-error-Device-of-this-type-cannot-be-shared ===
+
+=== Android-CI/bugfix%2FANDAPP-11881-Macaw-Staging-The-Macaw-Cuckoo-always-stuck-on-Getting-status ===
+
+=== Android-CI/bugfix%2FANDAPP-12048_Image_disappears_for_1_sec_after_FOV_change ===
+
+=== Android-CI/bugfix%2FANDAPP-12137-The-1st-onboarding-D2BS-The-Upgrade-button-is-displayed-in-CVR-timeline-screen-with-alredy-purchased-CVR-until-reopening-the-App ===
+
+=== Android-CI/bugfix%2FANDAPP-12167-Babycam-Fresh-installation-cleared-data-Press-the-Live-button-presented-when-camera-starts-Autostream ===
+
+=== Android-CI/bugfix%2FANDAPP-12187-No-charging-icon-when-floodlight-is-plugged-in-and-100%25 ===
+
+=== Android-CI/bugfix%2FANDAPP-12229-Unable-to-view-recordings-on-local-storage-SSEClient-Exception-java.net.SocketException-RATLS-token ===
+
+=== Android-CI/bugfix%2FANDAPP-12230-Android-6_x-Theme-Selection-only-Settings-page-changes-color-if-turn-ON_OFF-power-saving-mode ===
+
+=== Android-CI/bugfix%2FANDAPP-12260-Crashlytics-Null-Pointer-Exception-in-VideoViewLayout.onDownloadSuccess ===
+
+=== Android-CI/bugfix%2FANDAPP-12287-Mode-tab-disappears-for-some-time-after-minimizing-the-app-and-opening-back ===
+
+=== Android-CI/bugfix%2FANDAPP-12360-Alignment-Issue-in-French-version-of-App ===
+
+=== Android-CI/bugfix%2FANDAPP-12361-When-Motorola-G4-connected-to-cellular-data-customer-get-error-You-are-not-connected-to-internet-Please-check-your-connection ===
+
+=== Android-CI/bugfix%2FANDAPP-12394-Kingfisher-WiFI-onboarding-incorrect-Back-navigation-in-Multiple-QR-Codes-flow-and-crashes-periodically-if-continue ===
+
+=== Android-CI/bugfix%2FANDAPP-12459-AGV2-Crash-with-SSID-in-QR-code ===
+
+=== Android-CI/bugfix%2FANDAPP-12477-Audio-Doorbell-Motion-Settings-The-removed-from-the-account-camera-is-removed-from-the-Motion-Settings-only-after-1min-or-after-killing-the-app ===
+
+=== Android-CI/bugfix%2FANDAPP-12528-BabyCam-Motion&Audio-Settings-The-removed-from-the-account-camera-is-still-in-the-Motion&Audio-Settings ===
+
+=== Android-CI/bugfix%2FANDAPP-12765_Privacy_Center%5D_Delete_Account_flow%5D_'An_unexpected_error_occured'_if_try_to_delete_all_content_-_unable_to_Continue_and_delete_an_account ===
+
+=== Android-CI/bugfix%2FANDAPP-12948(Locations)(Lyrebird)_the_device_is_not_shown_in_account ===
+
+=== Android-CI/bugfix%2FANDAPP-13023_Locations_New_User_-_Account_Setup_'Create_Location'_flow_is_not_presented_after_account_was_created ===
+
+=== Android-CI/bugfix%2FANDAPP-13030_(Locations)(Devices)_Cameras_are_not_shown_on_devices_page ===
+
+=== Android-CI/bugfix%2FANDAPP-13079_The_'Expand_your_view_with_Arlo_Smart'_screen_is_displayed_in_the_end_of_every_onboarding_flow_for_a_Basic%2FSingle_Secure_Plan_User_if_there_are_at_least_5_no_legacy_cameras_on_the_account ===
+
+=== Android-CI/bugfix%2FANDAPP-13083_Maple_FW_could_not_be_updated_during_onboarding_device_is_always_offline_in_the_app_if_onboard_it_using_Android_client ===
+
+=== Android-CI/bugfix%2FANDAPP-13453_Sensor_onboarding_profile_setup_blocked_during_onboarding ===
+
+=== Android-CI/bugfix%2FANDAPP-13500_Locations_Maple_Change_Device_Location_able_to_move_Security_Hub_to_the_location_with_already_synced_Security_HUB ===
+
+=== Android-CI/bugfix%2FANDAPP-13620_Locations_Leave_Shared_Location_confirmation_message_You_have_left_Location_Name._is_missing ===
+
+=== Android-CI/bugfix%2FANDAPP-13943_Overlay_offline_message_is_not_per_spec_on_Parakeet_Macaw_Device_Card ===
+
+=== Android-CI/bugfix%2FANDAPP-13998_App_crashes_on_the_ER_confirmation_dialog ===
+
+=== Android-CI/bugfix%2FANDAPP-14022_Crashlytics_Prod_Crash_in_AudioStreamService.java ===
+
+=== Android-CI/bugfix%2FANDAPP-14447_Feeds_Date_separator_disappears_when_all_events_for_that_day_are_deleted ===
+
+=== Android-CI/bugfix%2FANDAPP-14462-Maple-App-keeps-showing-unable-to-join-Hub-SoftAP-while-phone-is-already-connected-during-hub-onboarding ===
+
+=== Android-CI/bugfix%2FANDAPP-14504-HUB-Settings-Change-WiFi-Network-Could-not-connect-page-is-always-presented-need-to-kill-an-app-and-restart-HUB-to-see-changed-network ===
+
+=== Android-CI/bugfix%2FANDAPP-14538-Feeds-Motion-and-Favorite-filters-do-not-work-for-Maple-Sensor-events ===
+
+=== Android-CI/bugfix%2FANDAPP-14585_Routines%5D_Create%2FEdit_Enabled_Schedule_page%5D_all_modes_should_be_checked_by_default_Always_Enabled_looks_like_button_and_text_with_a_mistake ===
+
+=== Android-CI/bugfix%2FANDAPP-14820_Device_Settings_ux4_WiFi_Network_as_separate_menu_and_presented_for_cameras_without_D2BS_mode_support_app_crashes_if_tap_CHANGE_NETWORK ===
+
+=== Android-CI/bugfix%2FANDAPP-14983-inital-tab-error ===
+
+=== Android-CI/bugfix%2FANDAPP-15057_Feed_Notification_Missing_handling_for_delete_event ===
+
+=== Android-CI/bugfix%2FANDAPP-15081-Dashboard-error-handling ===
+
+=== Android-CI/bugfix%2FANDAPP-15158_(Dashboard)_app_crashes_if_try_to_add_Sensor_widget ===
+
+=== Android-CI/bugfix%2FANDAPP-15197-fix-endless-dashboard-loading ===
+
+=== Android-CI/bugfix%2FANDAPP-15211(UX4)app_crashes_and_unable_to_login_if_more_than_3_sensor_types_were_enabled_from_Sensor_Settings ===
+
+=== Android-CI/bugfix%2FANDAPP-15211_(UX4)(Dashboard)_App_crashes_and_unable_to_login_if_more_than_3_sensor_types_were_enabled_from_Sensor_Settings ===
+
+=== Android-CI/bugfix%2FANDAPP-15211_(UX4.0)app_crashes_and_unable_to_login_if_more_than_3_sensor_types_were_enabled_from_Sensor_Settings ===
+
+=== Android-CI/bugfix%2FANDAPP-15238(MACAW_PARAKEET_Audio_Doorbell)_UX3_Device_Settings_are_incorrect_and_mixed_with_UX4 ===
+
+=== Android-CI/bugfix%2FANDAPP-15238(MACAW_PARAKEET_Audio_Doorbell)_UX3_Device_Settings_are_incorrect_and_mixed_with_UX4.0 ===
+
+=== Android-CI/bugfix%2FANDAPP-15260-show-full-video-doorbell ===
+
+=== Android-CI/bugfix%2FANDAPP-15375_(Dashboard)_Not-able_to_add_floodlight_light_widget_to_dashboard_app_crashes ===
+
+=== Android-CI/bugfix%2FANDAPP-15388_(Dashboard)_Disabled_widget_still_selectable ===
+
+=== Android-CI/bugfix%2FANDAPP-15388_(Dashboard)_available_sensor_widgets_dont_match_enabled_sensor_settings ===
+
+=== Android-CI/bugfix%2FANDAPP-15395_UX4_SmartHUBBS_main_Settings_remove_icon_is_presented_in_PAIRED_DEVICES ===
+
+=== Android-CI/bugfix%2FANDAPP-15455-endless-spinner-on-last-dashboard-item-removed ===
+
+=== Android-CI/bugfix%2FANDAPP-15576-baby-cam-temperature ===
+
+=== Android-CI/bugfix%2FANDAPP-15661_(Secondary_Screen)_Power_Management_App_crash_when_enabling_Auto_Low_Power_Mode ===
+
+=== Android-CI/bugfix%2FANDAPP-15723_(App_Refresh)_(OWL_D2AP_onboarding)_Name_page_is_missed_no_Continue_button_unable_to_finish_onboarding ===
+
+=== Android-CI/bugfix%2FANDAPP-15764_Location_switcher_UI_is_not_matching_4_expectations ===
+
+=== Android-CI/bugfix%2FANDAPP-15778_Babycam_QQ_Sparrow_missing_Indicator_LED ===
+
+=== Android-CI/bugfix%2FANDAPP-15796_available_banner ===
+
+=== Android-CI/bugfix%2FANDAPP-15799_App_4_Bottom_Navigation_Fragment_is_creating_twice_on_dark_theme_toggle ===
+
+=== Android-CI/bugfix%2FANDAPP-15808-only-add-one-widget ===
+
+=== Android-CI/bugfix%2FANDAPP-15841_Implement_UX4-based_Create_Edit_Location_flows ===
+
+=== Android-CI/bugfix%2FANDAPP-15854(Dashboard)_Non_devices_widget_showing_edit_mode ===
+
+=== Android-CI/bugfix%2FANDAPP-15856_(Dashboard)_Correct_background_filling_dark_light_mode ===
+
+=== Android-CI/bugfix%2FANDAPP-15896%2Ffix-crash-when-select-verified-camera ===
+
+=== Android-CI/bugfix%2FANDAPP-15897_(UI)(Dark_Theme)_Inserted_data_is_not_visible_in_the_nput_fields_during_device_onboarding ===
+
+=== Android-CI/bugfix%2FANDAPP-15931(Pro5)_Show_the_wrong_WiFi_network_info ===
+
+=== Android-CI/bugfix%2FANDAPP-15932%2Fupdate-ui-after-change-location-name ===
+
+=== Android-CI/bugfix%2FANDAPP-15933_Android_Application_Hidden_Developer_Menu ===
+
+=== Android-CI/bugfix%2FANDAPP-16150-Dashboard-doorbell-coming-out-of-full-screen-size ===
+
+=== Android-CI/bugfix%2FANDAPP-16200_Maple_LBB_SIM_pending_activation_banner_not_dismissable ===
+
+=== Android-CI/bugfix%2FANDAPP-16268_Maple_sensor_settings_fw_test_smoke_co_placement_desc_fix ===
+
+=== Android-CI/bugfix%2FANDAPP-16419_Edit_Mode_Location_with_specific_devices_Operation_Failed ===
+
+=== Android-CI/bugfix%2FANDAPP-16427_Automation_30_Entryexit_delay_can_t_be_changed_on_Android ===
+
+=== Android-CI/bugfix%2FANDAPP-16434_Baby_cam_animation_for_plugging_AC_Power ===
+
+=== Android-CI/bugfix%2FANDAPP-16578_(App_Refresh)_Arlo_smart_carousels_are_in_Arlo_Green ===
+
+=== Android-CI/bugfix%2FANDAPP-16593_Phoenix_incorrect_navigation_from_Camera_not_be_paired ===
+
+=== Android-CI/bugfix%2FANDAPP-16647-Add_git_hooks_for_branch_name_and_commit_title_message ===
+
+=== Android-CI/bugfix%2FANDAPP-16649_Feed_Audio_event_there_is_no_datetime_on_the_Clip_View_screen ===
+
+=== Android-CI/bugfix%2FANDAPP-5540_Mode_Action_Device_page ===
+
+=== Android-CI/bugfix%2FANDAPP-6165_Echo_Cancellation_not_working_properly_on_Android_App ===
+
+=== Android-CI/bugfix%2FANDAPP-6225_My_Device_crash ===
+
+=== Android-CI/bugfix%2FANDAPP-6232_Parakeet_Siren_open ===
+
+=== Android-CI/bugfix%2FANDAPP-8055_Macaw_Missing_Silent_Mode_Icon_on_Device_Card ===
+
+=== Android-CI/bugfix%2FANDAPP-8391_Restore_default_settings_cropped ===
+
+=== Android-CI/bugfix%2FANDAPP-8456_Crashlytics_FingerprintUiHelper_startListening ===
+
+=== Android-CI/bugfix%2FANDAPP-8459-crash-in-SettingsScheduleModeFragment ===
+
+=== Android-CI/bugfix%2FANDAPP-8614_Missing_add_device_btn_main_page ===
+
+=== Android-CI/bugfix%2FANDAPP-8768_MACAW_FW_upgrade_timeout_does_not_happen_on_retry ===
+
+=== Android-CI/bugfix%2FANDAPP-8892_Live_stream_gets_stuck_forever_if_change_network_LTE_to_WiFi_or_WiFi_to_LTE_during_SIP_call ===
+
+=== Android-CI/bugfix%2FANDAPP-9095_DA_translations_issues_integration ===
+
+=== Android-CI/bugfix%2FANDAPP-9542_2FA_enforced_screen_should_not_be_shown_to_user_part_deux ===
+
+=== Android-CI/bugfix%2FANDAPP-9633_Macaw_Incorrect_Message_In_Battery_Screen_If_Macaw_Not_Connected_To_Power_Source ===
+
+=== Android-CI/bugfix%2FANDAPP-9644_Question_button_is_presented_on_Two_Step_Verification_page ===
+
+=== Android-CI/bugfix%2FANDAPP-9856-App-shows-You-are-not-connected-to-the-Internet-debugging ===
+
+=== Android-CI/bugfix%2FANDAPP_10095_Offline_state_Owl_Sparrow_Cuckoo_Caracara_Restart_button_is_displayed_instead_of_the_Connect_network_on_the_Device_Settings_page_until_re_login ===
+
+=== Android-CI/bugfix%2FANDAPP_10308_Sparrow_Device_Shadow_Devices_not_being_refreshed_after_SSE_disconnection_and_reconnection ===
+
+=== Android-CI/bugfix%2FANDAPP_10357_Dark_Mode_Update_seek_bar_colors_in_library_playback ===
+
+=== Android-CI/bugfix%2FANDAPP_10415_New_Arlo_Logo_the_old_logo_for_shared_recording ===
+
+=== Android-CI/bugfix%2FANDAPP_10416_New_Arlo_Logo_logo_should_be_positioned_closer_to_the_right_edge ===
+
+=== Android-CI/bugfix%2FANDAPP_10822_Camera_with_Smart_subscription_App_shows_extra_text_video_streams_will_not_be_in_2K_resolution_on_pop_up_when_turn_on_Auto_zoom__tracking_for_camera_in_D2AP ===
+
+=== Android-CI/bugfix%2FANDAPP_10872_Intermittent_An_empty_emailpassword_fields_in_the_login_page_if_unlock_the_screen_and_tap_a_PN ===
+
+=== Android-CI/bugfix%2FANDAPP_11252_Unable_to_access_local_storage_via_local_network_Error_There_was_an_error_obtaining_your_library ===
+
+=== Android-CI/bugfix%2FANDAPP_11257_Remote_Access_to_Local_Storage_through_VPN_not_working_on_Android_App_only ===
+
+=== Android-CI/bugfix%2FANDAPP_11574_Welcome_to_Arlo_Secure_popup_is_not_per_spec ===
+
+=== Android-CI/bugfix%2FANDAPP_12821_Privacy_Center_Delete_Arlo_account_user_s_photo_will_appear_only_after_visiting_Profile ===
+
+=== Android-CI/bugfix%2FANDAPP_12920_ER_is_already_set_up_The_Play_button_is_disappeared_from_all_cameras_widgets_if_tap_any_CTA_button_from_Smart_PN ===
+
+=== Android-CI/bugfix%2FANDAPP_14895_Automations_Adjust_Device_Settings_Sensors_are_presented_in_the_list_of_devices ===
+
+=== Android-CI/bugfix%2FANDAPP_15515_App_40Device_Card_Tap_on_event_doesn_t_navigate_to_Feed ===
+
+=== Android-CI/bugfix%2FANDAPP_15749_Migration_app_crashes_after_migration_was_finished_if_start_it_from_PHOENIX ===
+
+=== Android-CI/bugfix%2FANDAPP_15749_Migration_app_crashes_after_migration_was_finished_if_start_it_from_PHOENIX_onboarding ===
+
+=== Android-CI/bugfix%2FANDAPP_15867_Emergency_app_crashes_if_tap_Siren_from_PN ===
+
+=== Android-CI/bugfix%2FANDAPP_8597_MACAW_Change_Network_the_incorrect_images_on_instruction_pages_and_wrong_inscription ===
+
+=== Android-CI/bugfix%2FANDAPP_9378_dark_mode_30_build_General_Settings_Update_Available_is_blue ===
+
+=== Android-CI/bugfix%2FANDAPP_9432_dark_mode_37_build_Setting_Mode_Turning_On_SchedulePlease_wait_loader_is_too_dark ===
+
+=== Android-CI/bugfix%2FANDAPP_9559_App_got_stuck_with_message_appearing ===
+
+=== Android-CI/bugfix%2FANDAPP_9565_App_got_stuck ===
+
+=== Android-CI/bugfix%2FANDAPP_9601_Lyrebird_SoftAP_onboarding_there_is_no_eye_icon ===
+
+=== Android-CI/bugfix%2FANDAPP_9917_ANDBaby_cam_Temperature_Humidity_and_Air_Quality_notifications_are_not_received ===
+
+=== Android-CI/bugfix%2FCEARLO-2288_AVD2001_No_image_or_green_image_on_SIP_call_video ===
+
+=== Android-CI/bugfix%2FDVFW_2886_LyreBird_SSID_and_Password_cropped ===
+
+=== Android-CI/bugfix%2FMaple_hub_settings_pet_sense_should_not_be_available ===
+
+=== Android-CI/bugfix%2Fandapp_15739_devices_wrong_widget ===
+
+=== Android-CI/bugfixANDAPP-5202_Android_device_is_Unavailable_in_Geofencing_Settings ===
+
+=== Android-CI/develop ===
+
+=== Android-CI/develop_feed_test ===
+
+=== Android-CI/enable_gradle_daemon ===
+
+=== Android-CI/feature%2FANDAPP-1495_face_library_integration ===
+
+=== Android-CI/feature%2Farlo_face_recognition ===
+
+=== Android-CI/feature%2Farlo_widget ===
+
+=== Android-CI/feature%2Fdevice_capabilities ===
+
+=== Android-CI/feature%2Ffaces-phase-2 ===
+
+=== Android-CI/feature%2Ffaces_settings ===
+
+=== Android-CI/feature%2Ffeed_test ===
+
+=== Android-CI/feature%2Ffirebase-config ===
+
+=== Android-CI/feature%2Fgecko ===
+
+=== Android-CI/feature%2Fiot-zwave ===
+
+=== Android-CI/feature%2Fmacaw ===
+
+=== Android-CI/feature%2Fmaterial-components ===
+
+=== Android-CI/feature%2Fnew_service_plan ===
+
+=== Android-CI/feature%2Fsip-streaming ===
+
+=== Android-CI/fieldtrial%2F3.5.8 ===
+
+=== Android-CI/fixbug%2FANDAPP-15890_Dark_Theme_The_color_is_not_clear ===
+
+=== Android-CI/https:%2F%2Fspruce.arlo.com%2Fapps%2Fandroid.git ===
+Build Number: 1
+Timestamp: 2023-11-28 10:03:06 UTC
+Result: FAILURE
+
+
+=== Android-CI/master ===
+
+=== Android-CI/merge%2F3.1-to-master ===
+
+=== Android-CI/pathsense_geofencing ===
+
+=== Android-CI/production_develop ===
+
+=== Android-CI/ratls_test_branch ===
+
+=== Android-CI/refactoring%2FANDAPP-3527_use_the_same_style_for_AlertDialog ===
+
+=== Android-CI/release%2F3.0 ===
+
+=== Android-CI/release%2F3.0.1 ===
+
+=== Android-CI/release%2F3.0.2 ===
+
+=== Android-CI/release%2F3.1 ===
+
+=== Android-CI/release%2F3.1-test ===
+
+=== Android-CI/release%2F3.2 ===
+
+=== Android-CI/release%2F3.2-beta ===
+
+=== Android-CI/release%2F3.2-china ===
+
+=== Android-CI/release%2F3.2.1 ===
+
+=== Android-CI/release%2F3.2.2 ===
+
+=== Android-CI/release%2F3.2.3 ===
+
+=== Android-CI/release%2F3.5 ===
+
+=== Android-CI/release%2F3.5.1 ===
+
+=== Android-CI/release%2F3.5.10 ===
+
+=== Android-CI/release%2F3.5.12 ===
+
+=== Android-CI/release%2F3.5.13 ===
+
+=== Android-CI/release%2F3.5.2 ===
+
+=== Android-CI/release%2F3.5.3 ===
+
+=== Android-CI/release%2F3.5.4 ===
+
+=== Android-CI/release%2F3.5.6 ===
+
+=== Android-CI/release%2F3.5.7 ===
+
+=== Android-CI/release%2F3.5.8 ===
+
+=== Android-CI/release%2F3.6 ===
+
+=== Android-CI/release%2F3.6.1 ===
+
+=== Android-CI/release%2F3.6.3 ===
+
+=== Android-CI/release%2F3.6.4 ===
+
+=== Android-CI/release%2F3.6.5 ===
+
+=== Android-CI/release%2F3.6.6 ===
+
+=== Android-CI/release%2F3.6.8 ===
+
+=== Android-CI/release%2F3.6.8_h264_sip ===
+
+=== Android-CI/release%2F3.6.9 ===
+
+=== Android-CI/release%2F4 ===
+
+=== Android-CI/release%2F4-0-beta21 ===
+
+=== Android-CI/release%2F4-0-beta22 ===
+
+=== Android-CI/release%2FAndApp_3.5.6_7 ===
+
+=== Android-CI/release%2FAndApp_3.6_5_beta ===
+
+=== Android-CI/release%2FAndApp_3.6_6_beta ===
+
+=== Android-CI/release%2FAndApp_4.0_10_update ===
+
+=== Android-CI/release%2FAndApp_4.0_11 ===
+
+=== Android-CI/release%2FAndApp_4.0_7 ===
+
+=== Android-CI/rem%2Ftemp-refactor-lte-data-object ===
+
+=== Android-CI/revert-4408-bugfix%2FANDAPP-10168_Sparrow_Use_More_Generic_Text_For_Biometric_Authentication ===
+
+=== Android-CI/revert-5485-bugfix%2FANDAPP-12462-Kingfisher-WiFI%2FLTE-onboarding-Refactoring-Multiple-QR-Codes-flow ===
+
+=== Android-CI/russ-show-simon-1 ===
+
+=== Android-CI/story%2FANDAPP-10139_Enable_ICE_for_SIP_streaming ===
+
+=== Android-CI/story%2FANDAPP-10197_Add_support_for_AMediacodec_to_PjSip ===
+
+=== Android-CI/story%2FANDAPP-10376-Output-dialogues-appearance-into-the-logcat-with-the-positive-cancel-button-ID-for-auto-close ===
+
+=== Android-CI/story%2FANDAPP-10751-Add-content-desc-to-motion-indicator-element ===
+
+=== Android-CI/story%2FANDAPP-10972_Direct_Dispatch_Integrate_Overlay_With_Domain_Layer ===
+
+=== Android-CI/story%2FANDAPP-11280_Direct_Dispatch_Allow_WebView_to_play_video ===
+
+=== Android-CI/story%2FANDAPP-11482_Emergency_Response_polish_UX_and_implement_Dark_Mode ===
+
+=== Android-CI/story%2FANDAPP-11719_Return_textColor_attribute_in_themes_to_35_release_for_safety ===
+
+=== Android-CI/story%2FANDAPP-11745_Android_Locations_Implement_Settings_Siren_screens ===
+
+=== Android-CI/story%2FANDAPP-11786-Prepare-NFC-demo-for-the-Maple-project ===
+
+=== Android-CI/story%2FANDAPP-12234_Create_HelpCenter_library ===
+
+=== Android-CI/story%2FANDAPP-12235_Use_HelpCenter_library_in_Arlo_app ===
+
+=== Android-CI/story%2FANDAPP-12379_Integrate_new_Offers_API_and_ServiceLevel_API ===
+
+=== Android-CI/story%2FANDAPP-12581_Pagination_Local_Storage_Only ===
+
+=== Android-CI/story%2FANDAPP-12599_Swipe_event_to_show_More_Hide_Delete_menu ===
+
+=== Android-CI/story%2FANDAPP-12754_Use_common_networking_module_in_feature_modules ===
+
+=== Android-CI/story%2FANDAPP-13008_Implement_PoC_for_Koin_DI_framework_in_Arlo ===
+
+=== Android-CI/story%2FANDAPP-13236_Implement_PoC_of_Toothpick_DI_framework_in_Arlo ===
+
+=== Android-CI/story%2FANDAPP-13296_PoC_Integrate_Dagger2_DI_framework ===
+
+=== Android-CI/story%2FANDAPP-13325_PoC%5D_Toothpick%5D_Integrate_DI_in_Privacy_Center ===
+
+=== Android-CI/story%2FANDAPP-13388_PoC_Prepare_classes_for_JSR-330_DI_type ===
+
+=== Android-CI/story%2FANDAPP-13400_PoC_Dagger_Cover_Privacy_Center ===
+
+=== Android-CI/story%2FANDAPP-13713_Security_hub_device_card_setup_active_interactions ===
+
+=== Android-CI/story%2FANDAPP-13763_(Phoenix)(Device_Settings)(UI)_Power_management_Auto_low_battery_mode_bak ===
+
+=== Android-CI/story%2FANDAPP-14156_Update_RxDNSSD_to_the_latest_version ===
+
+=== Android-CI/story%2FANDAPP-14263_Automations_3_0_Provide_Maple_device_actions_based_on_the_capabilities ===
+
+=== Android-CI/story%2FANDAPP-14266_UX4.0_PoC_Split_VideoViewLayout_UI_logic ===
+
+=== Android-CI/story%2FANDAPP-14279_Investigate_and_set-up_static_analysis_tool_for_project ===
+
+=== Android-CI/story%2FANDAPP-14317_Automations_30_Move_actions_creation_flow_to_separate_nav_graph ===
+
+=== Android-CI/story%2FANDAPP-14362_(Phoenix)(Device_Settings)_Power_management_Battery_mode_option ===
+
+=== Android-CI/story%2FANDAPP-14395-saving-and-removing-widgets ===
+
+=== Android-CI/story%2FANDAPP-14428_Feeds_Calendar_UI_updates ===
+
+=== Android-CI/story%2FANDAPP-14593_App_Refresh_Refactor_current_theme_to_use_standard_material_attributes ===
+
+=== Android-CI/story%2FANDAPP-14594_App_Refresh_Copy_app_themes_for_UI_4.0 ===
+
+=== Android-CI/story%2FANDAPP-14651-Global-Settings-App-Settings-Main-screen ===
+
+=== Android-CI/story%2FANDAPP-14670_Apply_UX4.0_to_Bridge_settings_main_screen ===
+
+=== Android-CI/story%2FANDAPP-14671_Apply_UX4.0_to_Light_settings_main_screen ===
+
+=== Android-CI/story%2FANDAPP-14672_Apply_UX4_to_SecurityHub_settings_main_screen ===
+
+=== Android-CI/story%2FANDAPP-14673_Apply_UX4_to_SensorHub_settings_main_screen ===
+
+=== Android-CI/story%2FANDAPP-14675_Apply_UX4_to_Device_Info_screen ===
+
+=== Android-CI/story%2FANDAPP-14676_Apply_Ux4_to_camera_led_screen ===
+
+=== Android-CI/story%2FANDAPP-14788_Apply_UX4_to_Chime_settings_main_screen ===
+
+=== Android-CI/story%2FANDAPP-14789_Apply_UX4.0_to_Doorbell_settings_main_screen ===
+
+=== Android-CI/story%2FANDAPP-14794_Apply_Ux4.0_to_audio_settings_screen ===
+
+=== Android-CI/story%2FANDAPP-14794_Apply_audio_settings_screen ===
+
+=== Android-CI/story%2FANDAPP-14794_audio_settings_screen ===
+
+=== Android-CI/story%2FANDAPP-14829_Apply_UX4_to_Doorbell_Indicator_LED_screen ===
+
+=== Android-CI/story%2FANDAPP-14830_Apply_UX4_to_Call_Settings_screen ===
+
+=== Android-CI/story%2FANDAPP-14833_Implement_Deeplinks_to_Support_Center_for_UX4 ===
+
+=== Android-CI/story%2FANDAPP-14956_(Migration)(Education)_Create_base_fragment_to_show_education_with_animation ===
+
+=== Android-CI/story%2FANDAPP-14966_Migration%5D_Education%5D_Add_Ebucation_banner_to_dashboard_page ===
+
+=== Android-CI/story%2FANDAPP-14970_(Phoenix)(D2AP)No_connect_to_5G_function ===
+
+=== Android-CI/story%2FANDAPP-15202_Automation_30_Remove_work_with_arlo_actions ===
+
+=== Android-CI/story%2FANDAPP-15277_(App_Refresh)_Update_colors_for_UI_4.0_themes ===
+
+=== Android-CI/story%2FANDAPP-15447_Support_Push_Notification_CTAs_and_tap_actions_for_Dashboard ===
+
+=== Android-CI/story%2FANDAPP-15527_Feed_Localization ===
+
+=== Android-CI/story%2FANDAPP-15532%2Fsetup-default-codestyle ===
+
+=== Android-CI/story%2FANDAPP-15541_(App_Refresh)_update_input_fields_with_4_0_UX ===
+
+=== Android-CI/story%2FANDAPP-15544_(App_Refresh)_Check_common_components_with_4_0_UX ===
+
+=== Android-CI/story%2FANDAPP-15568_localization ===
+
+=== Android-CI/story%2FANDAPP-15618%2Fimproove-user-location-settings-loadings ===
+
+=== Android-CI/story%2FANDAPP-15653_Feeds_update_temperature_styling ===
+
+=== Android-CI/story%2FANDAPP-15733-update-entry-banner ===
+
+=== Android-CI/story%2FANDAPP-15822_Emergency_ResponsePanic_Update_panic_logic ===
+
+=== Android-CI/story%2FANDAPP-15853_App_refresh_icon_and_logo_update ===
+
+=== Android-CI/story%2FANDAPP-15868_(Phoenix)_LPM_changes ===
+
+=== Android-CI/story%2FANDAPP-15901_Automation_30_Handle_Security_hub_offline_during_mode_change ===
+
+=== Android-CI/story%2FANDAPP-15917_(Phoenix)(Notification)_Create_a_Grey_Message_icon ===
+
+=== Android-CI/story%2FANDAPP-15917_(Phoenix)(Notification)_Create_a_Grey_Message_icon_when_only_have_5Ghz_ArloRF_setup_notification ===
+
+=== Android-CI/story%2FANDAPP-15924_(App_Refresh)_Update_images_for_Selec_an_Arlo_Camera_to_claim_screen_with_UX_4_0 ===
+
+=== Android-CI/story%2FANDAPP-16248-Android_12_Detect_Unsafe_Launches ===
+
+=== Android-CI/story%2FANDAPP-16322_Maple_sensor_settings_integrate_kb_articles_additional_fixes ===
+
+=== Android-CI/story%2FANDAPP-16487_NFC_stub_out_FW_api_calls ===
+
+=== Android-CI/story%2FANDAPP-16574_Phoenix_Update_logic_to_show_5G_flow_with_new_FW_changes ===
+
+=== Android-CI/story%2FANDAPP-16595_Android_12_Add_support_for_ConnectionService ===
+
+=== Android-CI/story%2FANDAPP-16687_Maple_sensor_settings_fw_test_images_update ===
+
+=== Android-CI/story%2FANDAPP-4933_Parse_google_services_json_for_each_environment ===
+
+=== Android-CI/story%2FANDAPP-6026_Prepare_application_for_geofencing_battery_consumption_tests ===
+
+=== Android-CI/story%2FANDAPP-6194-Create-refactoring-proposal-for-YouTube-player-in-onboarding ===
+
+=== Android-CI/story%2FANDAPP-6492_Clean_up_MainActivity ===
+
+=== Android-CI/story%2FANDAPP-6558_Replace_old_DeviceCapabilities_class_usages_with_new_capabilities_architecture ===
+
+=== Android-CI/story%2FANDAPP-7125-suggestion ===
+
+=== Android-CI/story%2FANDAPP-7897_Update_Image_Assets_from_UX_Team ===
+
+=== Android-CI/story%2FANDAPP-8076_UX_3_0_test_and_polish ===
+
+=== Android-CI/story%2FANDAPP-8207_Get_rid_of_check_camera_model_by_equalsIgnoreCase ===
+
+=== Android-CI/story%2FANDAPP-8691-Upload-R8-mapping-file-to-Artifactory ===
+
+=== Android-CI/story%2FANDAPP-8811_Gecko_onboarding_direct_to_AP ===
+
+=== Android-CI/story%2FANDAPP-8827_Prevent_doorbell_call_from_stopping_when_receiving_forced_logout_notification ===
+
+=== Android-CI/story%2FANDAPP_15940_optimization_work_with_UserLocation_and_EmergencyLocation ===
+
+=== Android-CI/story%2FANDAPP_16613_Integrate_Translation_Batch_SDL_8th_Oct_22 ===
+
+=== Android-CI/story%2FANDAPP_16645_NFC_Set_up_flow_create_Name_your_pass_pass ===
+
+=== Android-CI/story%2FANDAPP_16671_Append_Env_name_to_the_app_name_in_CICD_for_non_prod_builds ===
+
+=== Android-CI/story%2FANDAPP_16688_Verisure_Update_Countries_for_Marketing_Consent_with_Verisure_Europe ===
+
+=== CI-backend-hmswwapartner/BE-45131_fix ===
+
+=== CI-backend-hmswwapartner/BE-45134 ===
+
+=== CI-backend-hmswwapartner/BE-45134-v2 ===
+
+=== CI-backend-hmswwapartner/BE-45134-v3 ===
+
+=== CI-backend-hmswwapartner/BE-45136-Query-Device-state ===
+
+=== CI-backend-hmswwapartner/BE-45389_microservice-startup-fix ===
+
+=== CI-backend-hmswwapartner/BE-46312 ===
+
+=== CI-backend-hmswwapartner/CICD-7643-v1 ===
+
+=== CI-backend-hmswwapartner/CICD-7643-v1-localstack-fix ===
+
+=== CI-backend-hmswwapartner/CICD-7643-v2 ===
+
+=== CI-backend-hmswwapartner/CICD-7643-v3 ===
+
+=== CI-backend-hmswwapartner/CICD-7996 ===
+
+=== CI-backend-hmswwapartner/PR-10 ===
+
+=== CI-backend-hmswwapartner/PR-6 ===
+
+=== CI-backend-hmswwapartner/PR-7 ===
+
+=== CI-backend-hmswwapartner/PR-9 ===
+
+=== CI-backend-hmswwapartner/master ===
+
+=== CI-Cloud/CICD-3517 ===
+
+=== CI-Cloud/CICD-3893 ===
+
+=== CI-Cloud/CICD-4345 ===
+
+=== CI-Cloud/PR-199 ===
+
+=== CI-Cloud/PR-214 ===
+
+=== CI-Cloud/PR-242 ===
+
+=== CI-Cloud/PR-244 ===
+
+=== CI-Cloud/PR-250 ===
+
+=== CI-Cloud/PR-252 ===
+
+=== CI-Cloud/XCLOUD-1040 ===
+
+=== CI-Cloud/XCLOUD-1104 ===
+
+=== CI-Cloud/XCLOUD-1154 ===
+
+=== CI-Cloud/XCLOUD-1221 ===
+
+=== CI-Cloud/debugging-issue ===
+
+=== CI-Cloud/develop ===
+
+=== CI-Cloud/feature%2FXCLOUD-1040 ===
+
+=== CI-Cloud/feature%2FXCLOUD-1297 ===
+
+=== CI-Cloud/feature%2FXCLOUD-1356 ===
+
+=== CI-Cloud/feature%2FXCLOUD-1398 ===
+
+=== CI-Cloud/feature%2FXCLOUD-1440 ===
+
+=== CI-Cloud/feature%2FXCLOUD-1450 ===
+
+=== CI-Cloud/feature%2FXCLOUD-1502 ===
+
+=== CI-Cloud/feature%2FXCLOUD-876 ===
+
+=== CI-Cloud/feature%2FXCLOUD-936 ===
+
+=== CI-Cloud/feature%2FXCOAUTH-91 ===
+
+=== CI-Cloud/feature%2FXCVSEC-149 ===
+
+=== CI-Cloud/feature%2Faws-secrets-manager ===
+
+=== CI-Cloud/feature%2Fmqtt ===
+
+=== CI-Cloud/master ===
+
+=== CI-CloudOAuth/CICD-1711 ===
+
+=== CI-CloudOAuth/CICD-1712 ===
+
+=== CI-CloudOAuth/CICD-1724 ===
+
+=== CI-CloudOAuth/CICD-3893 ===
+
+=== CI-CloudOAuth/PR-102 ===
+
+=== CI-CloudOAuth/PR-109 ===
+
+=== CI-CloudOAuth/PR-110 ===
+
+=== CI-CloudOAuth/PR-111 ===
+
+=== CI-CloudOAuth/PR-112 ===
+
+=== CI-CloudOAuth/XCOAUTH-65 ===
+
+=== CI-CloudOAuth/XCOAUTH-91B ===
+
+=== CI-CloudOAuth/develop ===
+
+=== CI-CloudOAuth/feature%2FXCLOUD-1297 ===
+
+=== CI-CloudOAuth/feature%2FXCLOUD-876 ===
+
+=== CI-CloudOAuth/feature%2FXCLOUD-916 ===
+
+=== CI-CloudOAuth/feature%2FXCOAUTH-143 ===
+
+=== CI-CloudOAuth/feature%2FXCOAUTH-84 ===
+
+=== CI-CloudOAuth/feature%2Faws-sm-phase-1 ===
+
+=== CI-CloudOAuth/feature%2Fiview ===
+
+=== CI-CloudOAuth/master ===
+
+=== CI-CloudOAuth/release%2Fv1.19.0 ===
+
+=== CI-hmssavant/BE-13542 ===
+
+=== CI-hmssavant/BE-18201 ===
+Build Number: 3
+Timestamp: 2023-09-24 02:48:42 UTC
+Result: FAILURE
+
+
+=== CI-hmssavant/BE-19576 ===
+
+=== CI-hmssavant/BE-20598 ===
+
+=== CI-hmssavant/BE-27323 ===
+
+=== CI-hmssavant/BE-30457 ===
+
+=== CI-hmssavant/BE-30707 ===
+
+=== CI-hmssavant/BE-30776 ===
+
+=== CI-hmssavant/BE-30776_release ===
+
+=== CI-hmssavant/BE-30854 ===
+
+=== CI-hmssavant/BE-31876 ===
+
+=== CI-hmssavant/BE-33168 ===
+
+=== CI-hmssavant/BE-33211 ===
+
+=== CI-hmssavant/BE-34123 ===
+
+=== CI-hmssavant/BE-35676 ===
+
+=== CI-hmssavant/BE-37215 ===
+
+=== CI-hmssavant/BE-37775 ===
+
+=== CI-hmssavant/BE-38614 ===
+
+=== CI-hmssavant/BE-38809 ===
+
+=== CI-hmssavant/BE-39132-1 ===
+
+=== CI-hmssavant/BE-40816 ===
+
+=== CI-hmssavant/BE-41571 ===
+
+=== CI-hmssavant/BE-48119 ===
+
+=== CI-hmssavant/BE-48242 ===
+
+=== CI-hmssavant/BE-49371 ===
+
+=== CI-hmssavant/BE-49980 ===
+
+=== CI-hmssavant/BE-50046 ===
+
+=== CI-hmssavant/CICD-7996 ===
+
+=== CI-hmssavant/IROBOT-132 ===
+
+=== CI-hmssavant/IROBOT-136 ===
+
+=== CI-hmssavant/PR-185 ===
+
+=== CI-hmssavant/PR-186 ===
+
+=== CI-hmssavant/VERISURE-758 ===
+
+=== CI-hmssavant/develop ===
+
+=== CI-hmssavant/master ===
+
+=== CI-hmssavant/release%2F1.0.1 ===
+
+=== CI-hmssavant/release%2F1.0.x ===
+
+=== CI-hmssavant/release%2F2.12 ===
+
+=== CI-hmssavant/release%2F2.14.x ===
+
+=== CI-hmssavant/release%2F2.15.x ===
+
+=== CI-hmssavant/release%2F2.17.x ===
+
+=== CI-hmssavant/release%2F2.22.x ===
+
+=== CI-hmssavant/release%2F2.26.x ===
+
+=== CI-hmssavant/release%2F2.28.x ===
+
+=== CI-hmssavant/release%2F2.30.x ===
+
+=== CI-hmssavant/release%2F2.35.x ===
+
+=== CI-hmssavant/release%2F2.36.x ===
+
+=== CI-hmssavant/release%2F2.37.x ===
+
+=== CI-hmssavant/release%2F2.38.x ===
+
+=== CI-hmssavant/release%2F2.39.x ===
+
+=== CI-hmssavant/release%2F2.40.x ===
+
+=== CI-hmssavant/release%2F2.41.x ===
+
+=== CI-hmssavant/release%2F2.42.x ===
+
+=== CI-hmssavant/release%2F2.43.x ===
+
+=== CI-hmssavant/release%2F2.44.x ===
+
+=== CI-hmssavant/release%2F2.45.x ===
+
+=== CI-hmssavant/release%2F2.46.x ===
+
+=== CI-hmssavant/release%2F2.47.x ===
+
+=== CI-hmssavant/release%2F2.48.x ===
+
+=== CI-hmssavant/release%2F2.49.x ===
+
+=== CI-hmssavant/release%2F2.5.x ===
+
+=== CI-hmssavant/release%2F2.50.x ===
+
+=== CI-hmsstreamingcore/BE-20185 ===
+
+=== CI-hmsstreamingcore/BE-22955 ===
+
+=== CI-hmsstreamingcore/BE-25922 ===
+
+=== CI-hmsstreamingcore/BE-28346 ===
+
+=== CI-hmsstreamingcore/BE-29508 ===
+
+=== CI-hmsstreamingcore/BE-32297-1 ===
+
+=== CI-hmsstreamingcore/BE-35708-1 ===
+
+=== CI-hmsstreamingcore/BE-40640-1 ===
+
+=== CI-hmsstreamingcore/BE-40673-1 ===
+
+=== CI-hmsstreamingcore/BE-42133-1 ===
+
+=== CI-hmsstreamingcore/BE-43110 ===
+
+=== CI-hmsstreamingcore/BE-43818-1 ===
+
+=== CI-hmsstreamingcore/BE-45882 ===
+
+=== CI-hmsstreamingcore/BE-49268 ===
+
+=== CI-hmsstreamingcore/CICD-7996 ===
+
+=== CI-hmsstreamingcore/CICD-7996-1 ===
+
+=== CI-hmsstreamingcore/PR-251 ===
+
+=== CI-hmsstreamingcore/develop ===
+
+=== CI-hmsstreamingcore/master ===
+
+=== CI-hmsstreamingcore/release%2F1.0.x ===
+
+=== CI-hmsstreamingcore/release%2F2.0.x ===
+
+=== CI-hmsstreamingcore/release%2F2.10.x ===
+
+=== CI-hmsstreamingcore/release%2F2.11.x ===
+
+=== CI-hmsstreamingcore/release%2F2.12.x ===
+
+=== CI-hmsstreamingcore/release%2F2.13.x ===
+
+=== CI-hmsstreamingcore/release%2F2.14.x ===
+
+=== CI-hmsstreamingcore/release%2F2.15.x ===
+
+=== CI-hmsstreamingcore/release%2F2.16.x ===
+
+=== CI-hmsstreamingcore/release%2F2.2.x ===
+
+=== CI-hmsstreamingcore/release%2F2.3.0 ===
+
+=== CI-hmsstreamingcore/release%2F2.3.x ===
+
+=== CI-hmsstreamingcore/release%2F2.4.x ===
+
+=== CI-hmsstreamingcore/release%2F2.5.x ===
+
+=== CI-hmsstreamingcore/release%2F2.6.x ===
+
+=== CI-hmsstreamingcore/release%2F2.7.x ===
+
+=== CI-hmsstreamingcore/release%2F2.8.x ===
+
+=== CI-hmsstreamingcore/release%2F2.9.x ===
+
+=== CI-hmsstreamingcore/test ===
+
+=== CI-sonar-test/111test-template ===
+
+=== CI-sonar-test/2.10 ===
+
+=== CI-sonar-test/2.11 ===
+
+=== CI-sonar-test/2.12 ===
+
+=== CI-sonar-test/2.13 ===
+
+=== CI-sonar-test/2.14 ===
+
+=== CI-sonar-test/2.15 ===
+
+=== CI-sonar-test/2.16 ===
+
+=== CI-sonar-test/2.17 ===
+
+=== CI-sonar-test/2.18 ===
+
+=== CI-sonar-test/2.19.1 ===
+
+=== CI-sonar-test/2.19.2 ===
+
+=== CI-sonar-test/2.20 ===
+
+=== CI-sonar-test/2.21 ===
+
+=== CI-sonar-test/2.22 ===
+
+=== CI-sonar-test/2.22.5 ===
+
+=== CI-sonar-test/2.22.6 ===
+
+=== CI-sonar-test/2.23 ===
+
+=== CI-sonar-test/2.23-forceBeta ===
+
+=== CI-sonar-test/2.23-old ===
+
+=== CI-sonar-test/2.7.12 ===
+
+=== CI-sonar-test/2.9 ===
+
+=== CI-sonar-test/3.0 ===
+
+=== CI-sonar-test/3.1 ===
+
+=== CI-sonar-test/3.1.5 ===
+
+=== CI-sonar-test/3.2 ===
+
+=== CI-sonar-test/3.5 ===
+
+=== CI-sonar-test/3.5.10 ===
+
+=== CI-sonar-test/3.5.11 ===
+
+=== CI-sonar-test/3.5.12 ===
+
+=== CI-sonar-test/3.5.13 ===
+
+=== CI-sonar-test/3.5.4 ===
+
+=== CI-sonar-test/3.5.4-old ===
+
+=== CI-sonar-test/3.5.4_IOSAPP_14289 ===
+
+=== CI-sonar-test/3.5.6 ===
+
+=== CI-sonar-test/3.5.8 ===
+
+=== CI-sonar-test/3.6 ===
+
+=== CI-sonar-test/3.6.1 ===
+
+=== CI-sonar-test/3.6.3 ===
+
+=== CI-sonar-test/3.6.4 ===
+
+=== CI-sonar-test/3.6.5 ===
+
+=== CI-sonar-test/AllInOne ===
+
+=== CI-sonar-test/ArloLabsPOC ===
+
+=== CI-sonar-test/Arlo_Ifttt_PoC ===
+
+=== CI-sonar-test/ArlpLabsMQTT ===
+
+=== CI-sonar-test/BugFix-IOSAPP-13891-JF-35 ===
+
+=== CI-sonar-test/BugFix-IOSAPP-14437 ===
+
+=== CI-sonar-test/CEARLO-1975 ===
+
+=== CI-sonar-test/CICD-6062 ===
+
+=== CI-sonar-test/CICD-6062-v2 ===
+
+=== CI-sonar-test/CICD-6251 ===
+
+=== CI-sonar-test/CICD-7141 ===
+
+=== CI-sonar-test/CICD-7646 ===
+
+=== CI-sonar-test/CICD-7652 ===
+
+=== CI-sonar-test/ConnectionToNetwork ===
+
+=== CI-sonar-test/CustomBuildPrintToken ===
+
+=== CI-sonar-test/DirectDispatchExtension ===
+
+=== CI-sonar-test/FastLoginPoC ===
+
+=== CI-sonar-test/HmsModeRefactoring ===
+
+=== CI-sonar-test/IOSAPP--11547 ===
+
+=== CI-sonar-test/IOSAPP-10067 ===
+
+=== CI-sonar-test/IOSAPP-10350 ===
+
+=== CI-sonar-test/IOSAPP-10458 ===
+
+=== CI-sonar-test/IOSAPP-10678 ===
+
+=== CI-sonar-test/IOSAPP-10754-save-ptt-state ===
+
+=== CI-sonar-test/IOSAPP-11066-sipV2-ice ===
+
+=== CI-sonar-test/IOSAPP-11120f ===
+
+=== CI-sonar-test/IOSAPP-11120ff ===
+
+=== CI-sonar-test/IOSAPP-11532 ===
+
+=== CI-sonar-test/IOSAPP-11547 ===
+
+=== CI-sonar-test/IOSAPP-11621-1 ===
+
+=== CI-sonar-test/IOSAPP-11710 ===
+
+=== CI-sonar-test/IOSAPP-11710-b ===
+
+=== CI-sonar-test/IOSAPP-11844 ===
+
+=== CI-sonar-test/IOSAPP-12091-sip-stream-audio-fix-ice ===
+
+=== CI-sonar-test/IOSAPP-12091-sip-stream-audio-fix-test ===
+
+=== CI-sonar-test/IOSAPP-12116 ===
+Build Number: 2
+Timestamp: 2023-10-02 13:17:09 UTC
+Result: ABORTED
+
+
+=== CI-sonar-test/IOSAPP-12641-Timeline-2WT-disabled-mic ===
+
+=== CI-sonar-test/IOSAPP-12692 ===
+
+=== CI-sonar-test/IOSAPP-12709 ===
+
+=== CI-sonar-test/IOSAPP-12709-1 ===
+
+=== CI-sonar-test/IOSAPP-12736 ===
+
+=== CI-sonar-test/IOSAPP-12791_3.6 ===
+
+=== CI-sonar-test/IOSAPP-12969-1-1 ===
+
+=== CI-sonar-test/IOSAPP-12969-3 ===
+
+=== CI-sonar-test/IOSAPP-12975 ===
+
+=== CI-sonar-test/IOSAPP-12988 ===
+
+=== CI-sonar-test/IOSAPP-13040-AL-Stop ===
+
+=== CI-sonar-test/IOSAPP-13053-AL-VD-Call ===
+
+=== CI-sonar-test/IOSAPP-13106-metal ===
+
+=== CI-sonar-test/IOSAPP-13106-metal2 ===
+
+=== CI-sonar-test/IOSAPP-13150_MapleHub-FinalUX-DeviceSettings-Settings ===
+
+=== CI-sonar-test/IOSAPP-13214-ferst-image ===
+
+=== CI-sonar-test/IOSAPP-13305-timeout2 ===
+
+=== CI-sonar-test/IOSAPP-13421 ===
+
+=== CI-sonar-test/IOSAPP-13453 ===
+
+=== CI-sonar-test/IOSAPP-13517 ===
+
+=== CI-sonar-test/IOSAPP-13538 ===
+
+=== CI-sonar-test/IOSAPP-13538-3.5 ===
+
+=== CI-sonar-test/IOSAPP-13640 ===
+
+=== CI-sonar-test/IOSAPP-13640-address-search ===
+
+=== CI-sonar-test/IOSAPP-13656 ===
+
+=== CI-sonar-test/IOSAPP-13771 ===
+
+=== CI-sonar-test/IOSAPP-13793-sw ===
+
+=== CI-sonar-test/IOSAPP-13802 ===
+
+=== CI-sonar-test/IOSAPP-13822 ===
+
+=== CI-sonar-test/IOSAPP-13831 ===
+
+=== CI-sonar-test/IOSAPP-13864 ===
+
+=== CI-sonar-test/IOSAPP-13880 ===
+
+=== CI-sonar-test/IOSAPP-13880-sw ===
+
+=== CI-sonar-test/IOSAPP-13902 ===
+
+=== CI-sonar-test/IOSAPP-13944 ===
+
+=== CI-sonar-test/IOSAPP-13944-af ===
+
+=== CI-sonar-test/IOSAPP-13988-dy ===
+
+=== CI-sonar-test/IOSAPP-14027-sw ===
+
+=== CI-sonar-test/IOSAPP-14044 ===
+
+=== CI-sonar-test/IOSAPP-14048-ratl-am ===
+
+=== CI-sonar-test/IOSAPP-14075-go2-am ===
+
+=== CI-sonar-test/IOSAPP-14075_master ===
+
+=== CI-sonar-test/IOSAPP-14103 ===
+
+=== CI-sonar-test/IOSAPP-14147 ===
+
+=== CI-sonar-test/IOSAPP-14153 ===
+
+=== CI-sonar-test/IOSAPP-14244 ===
+
+=== CI-sonar-test/IOSAPP-14245 ===
+
+=== CI-sonar-test/IOSAPP-14338 ===
+
+=== CI-sonar-test/IOSAPP-14340 ===
+
+=== CI-sonar-test/IOSAPP-14363_signal-icon-was-wrong-after-on-boarding ===
+
+=== CI-sonar-test/IOSAPP-14368 ===
+
+=== CI-sonar-test/IOSAPP-14506 ===
+
+=== CI-sonar-test/IOSAPP-14530 ===
+
+=== CI-sonar-test/IOSAPP-14637 ===
+
+=== CI-sonar-test/IOSAPP-14639 ===
+
+=== CI-sonar-test/IOSAPP-14640 ===
+
+=== CI-sonar-test/IOSAPP-14708 ===
+
+=== CI-sonar-test/IOSAPP-14745_rc ===
+
+=== CI-sonar-test/IOSAPP-14861-JF ===
+
+=== CI-sonar-test/IOSAPP-14911 ===
+
+=== CI-sonar-test/IOSAPP-14951-3.5.12-test-build ===
+
+=== CI-sonar-test/IOSAPP-14951-test-build ===
+
+=== CI-sonar-test/IOSAPP-15056 ===
+
+=== CI-sonar-test/IOSAPP-15089 ===
+
+=== CI-sonar-test/IOSAPP-15146 ===
+
+=== CI-sonar-test/IOSAPP-15148 ===
+
+=== CI-sonar-test/IOSAPP-15231 ===
+
+=== CI-sonar-test/IOSAPP-15232-sw ===
+
+=== CI-sonar-test/IOSAPP-15325-JF ===
+
+=== CI-sonar-test/IOSAPP-15574 ===
+
+=== CI-sonar-test/IOSAPP-15574_3.5.12 ===
+
+=== CI-sonar-test/IOSAPP-15589 ===
+
+=== CI-sonar-test/IOSAPP-15589-test ===
+
+=== CI-sonar-test/IOSAPP-15596-sw ===
+
+=== CI-sonar-test/IOSAPP-15697 ===
+
+=== CI-sonar-test/IOSAPP-15828-crash-HMSDevice ===
+
+=== CI-sonar-test/IOSAPP-15831-sw ===
+
+=== CI-sonar-test/IOSAPP-15859-DbellBatt-3.6-am ===
+
+=== CI-sonar-test/IOSAPP-15859_3.6 ===
+
+=== CI-sonar-test/IOSAPP-15882-audio ===
+
+=== CI-sonar-test/IOSAPP-15911 ===
+
+=== CI-sonar-test/IOSAPP-15931 ===
+
+=== CI-sonar-test/IOSAPP-16001 ===
+
+=== CI-sonar-test/IOSAPP-16016-3.6-ym ===
+
+=== CI-sonar-test/IOSAPP-16054 ===
+
+=== CI-sonar-test/IOSAPP-16423-Settings-Security ===
+
+=== CI-sonar-test/IOSAPP-16487-testAutomationManager ===
+
+=== CI-sonar-test/IOSAPP-16507 ===
+
+=== CI-sonar-test/IOSAPP-16536 ===
+
+=== CI-sonar-test/IOSAPP-16565_beta1_1 ===
+
+=== CI-sonar-test/IOSAPP-16915 ===
+
+=== CI-sonar-test/IOSAPP-16916_Missing-top-banner-messages-and-BackupBox-cell ===
+
+=== CI-sonar-test/IOSAPP-16979-sw ===
+
+=== CI-sonar-test/IOSAPP-4356-Apple-TV-Recovery ===
+
+=== CI-sonar-test/IOSAPP-7787 ===
+
+=== CI-sonar-test/IOSAPP-8355-am ===
+
+=== CI-sonar-test/IOSAPP-9194-supportPro4-am ===
+
+=== CI-sonar-test/IOSAPP-9276 ===
+
+=== CI-sonar-test/IOSAPP-dcwidget-am ===
+
+=== CI-sonar-test/IOSAPP-locationCreation-am ===
+
+=== CI-sonar-test/IOSAPP_13335 ===
+
+=== CI-sonar-test/IOSAPP_14278 ===
+
+=== CI-sonar-test/IOSAPP_14303 ===
+
+=== CI-sonar-test/IOSAPP_14305 ===
+
+=== CI-sonar-test/IOSAPP_14567 ===
+
+=== CI-sonar-test/IOSAPP_15537 ===
+
+=== CI-sonar-test/JF-Maple ===
+
+=== CI-sonar-test/Master-MErge ===
+
+=== CI-sonar-test/OverlayMessage ===
+
+=== CI-sonar-test/QA-Menu ===
+
+=== CI-sonar-test/QAUTO-3000 ===
+
+=== CI-sonar-test/SIP-DEBUG ===
+
+=== CI-sonar-test/SIPLiveStreamTest ===
+
+=== CI-sonar-test/SIP_DEBUG_SAVEFILE ===
+
+=== CI-sonar-test/SessionLog ===
+
+=== CI-sonar-test/SettingsNewUX ===
+
+=== CI-sonar-test/Story-IOSAPP-12585 ===
+
+=== CI-sonar-test/Story-IOSAPP-12588 ===
+
+=== CI-sonar-test/Story-IOSAPP-12590 ===
+
+=== CI-sonar-test/Story-IOSAPP-12904-13082 ===
+
+=== CI-sonar-test/Story-IOSAPP-13082 ===
+
+=== CI-sonar-test/Story-IOSAPP-8509-FakePro4 ===
+
+=== CI-sonar-test/master ===
+Build Number: 3
+Timestamp: 2023-09-21 07:41:31 UTC
+Result: FAILURE
+
+
+=== Engineering Tools DEV/Jenkins-Jira via Git ===
+
+=== fast-job-test/CICD-7530 ===
+Build Number: 24
+Timestamp: 2023-09-24 02:08:47 UTC
+Result: FAILURE
+
+
+=== fast-job-test/CICD-7530-v1 ===
+
+=== hmsfeeds/BE-40876 ===
+
+=== hmsfeeds/BE-41583 ===
+
+=== hmsfeeds/BE-41802 ===
+
+=== hmsfeeds/BE-42260 ===
+
+=== hmsfeeds/BE-42390 ===
+
+=== hmsfeeds/BE-42791 ===
+
+=== hmsfeeds/BE-44844 ===
+
+=== hmsfeeds/BE-45791 ===
+
+=== hmsfeeds/BE-48042 ===
+
+=== hmsfeeds/BE-48733 ===
+
+=== hmsfeeds/BE-49121 ===
+
+=== hmsfeeds/BE-sonar-test ===
+
+=== hmsfeeds/CICD-7041 ===
+
+=== hmsfeeds/CICD-7041-a ===
+
+=== hmsfeeds/CICD-7751 ===
+
+=== hmsfeeds/CICD-7776 ===
+Build Number: 4
+Timestamp: 2023-12-05 03:48:14 UTC
+Result: FAILURE
+
+Build Number: 3
+Timestamp: 2023-12-05 03:45:18 UTC
+Result: FAILURE
+
+Build Number: 2
+Timestamp: 2023-12-01 15:01:55 UTC
+Result: FAILURE
+
+
+=== hmsfeeds/CICD-8000 ===
+
+=== hmsfeeds/CICD-8034 ===
+
+=== hmsfeeds/PR-62 ===
+
+=== hmsfeeds/PR-7 ===
+
+=== hmsfeeds/RT-MT-1141 ===
+
+=== hmsfeeds/mas ===
+
+=== hmsfeeds/master ===
+
+=== hmsfeeds/release%2F1.0.x ===
+
+=== hmsfeeds/release%2F1.1.x ===
+
+=== hmsfeeds/release%2F1.2.x ===
+
+=== hmsfeeds/release%2F1.3.x ===
+
+=== hmsfeeds/release%2F1.4.x ===
+
+=== hmsfeeds/release%2F1.5.x ===
+
+=== hmsfeeds/release%2F1.6.x ===
+
+=== hmsfeeds/release%2F1.7.x ===
+
+=== hmsfeeds/revert-92-BE-48164 ===
+
+=== JJI/CICD-7759 ===
+
+=== test/CICD-6244 ===
+Build Number: 30
+Timestamp: 2023-10-02 13:03:53 UTC
+Result: SUCCESS
+
+Build Number: 29
+Timestamp: 2023-10-02 11:08:05 UTC
+Result: SUCCESS
+
+Build Number: 28
+Timestamp: 2023-10-02 10:23:02 UTC
+Result: SUCCESS
+
+Build Number: 26
+Timestamp: 2023-10-02 09:04:33 UTC
+Result: FAILURE
+
+Build Number: 25
+Timestamp: 2023-09-24 02:10:25 UTC
+Result: FAILURE
+
